@@ -12,7 +12,7 @@ Whatever it takes for the climax.
 
 **What I'm working on**
 - 🔨 **Takshak** — edtech startup, think MakeMyTrip but for education
-- 💼 SWE intern at Aditya Birla Group — Node.js + Oracle full-stack
+- 💼 Ex-SWE intern at Aditya Birla Group — Node.js + Oracle full-stack
 - 🌍 Finding my way through OSS, Web Dev & Full-Stack
 
 **Stack**
