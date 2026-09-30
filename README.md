@@ -3,7 +3,7 @@
 
 ---
 
-I'm a first-year student who spent years navigating fragmented, hard-to-find information about education, opportunities, and career paths, during her drop year and still barely surviving university. That frustration became **Takshak**, an edtech startup I'm building to make those pathways visible for students like me with a great co-founder & friend.
+I'm a second-year student who spent years navigating fragmented, hard-to-find information about education, opportunities, and career paths, during her drop year and still barely surviving university. That frustration became **Takshak**, an edtech startup I'm building to make those pathways visible for students like me with a great co-founder & friend.
 
 For me storytelling matters the most, be it with whatever resources and platform; this also is a huge part of my approach in solving a problem.
 Whatever it takes for the climax. 
